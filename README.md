@@ -1,4 +1,5 @@
 ## Запуск
 
-bash
+```bash
 python main.py
+```
